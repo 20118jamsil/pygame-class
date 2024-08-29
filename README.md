@@ -1,4 +1,5 @@
-# pygame-class
+# pygame-class 
+# 셋팅
 
 - Terminal -> New Terminal
 - Command Prompt 열기 (+버튼 옆에)
@@ -17,9 +18,3 @@ pip freeze > requirements.txt
 ```shell
 pip install -r requirements.txt
 ```
-- pip install pygame-ce
-
-pip install black isort 
-pip freeze
-pip freeze  > requirements.txt
-
